@@ -14,7 +14,7 @@
 | Nombre y Apellido |
 |---|
 | Morena Amarante |
-| Lucía Quiroga |
+| Lucia Quiroga |
 
 ---
 
