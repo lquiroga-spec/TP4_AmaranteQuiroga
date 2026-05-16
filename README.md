@@ -1,11 +1,12 @@
 # TP4 - Bases de Datos y Manejo de Versiones
 
-<img width="555" height="332" alt="image" src="https://github.com/user-attachments/assets/6b1af8f0-ebc0-415b-8fd5-abef4798c303" />
+<img width="550" height="320" alt="image" src="https://github.com/user-attachments/assets/6b1af8f0-ebc0-415b-8fd5-abef4798c303" />
 
 
-**Materia:** Informática Médica
-**Instituto:** ITBA  
-**Año:** 2026 
+
+- **Materia:** Informática Médica 
+- **Instituto:** ITBA
+- **Año:** 2026 
 
 ---
 
